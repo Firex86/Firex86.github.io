@@ -1,21 +1,20 @@
 body {
-  background-color: (rgb(73, 156, 73);
+  background-color: rgb(73, 156, 73);
 }
-
 h1 {
   margin-left: 20px;
-  background-color: (rgb(208, 252, 191);
+  background-color: rgb(208, 252, 192);
   border: 5px rgb(0, 0, 0);
   padding: 20px;
 }
 h3 {
   margin-left: 20px;
-  background-color: (rgb(208, 252, 191);
+  background-color: rgb(208, 252, 192);
   border: 5px rgb(0, 0, 0);
   padding: 20px;
 }
 p {
-    background-color: (rgb(208, 252, 191);
+    background-color: rgb(208, 252, 192);
     border: 5px rgb(0, 0, 0);
     border-radius: 25px;
     padding: 20px;
