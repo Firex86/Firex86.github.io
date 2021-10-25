@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+         <link rel="stylesheet" type="text/css" href="styles.css"> 
+        <meta charset="utf-8">
+        <title>Peura</title>
+    </head>
+    <body>
+
+    <h1>Kaikki peuroista</h1>
+    <img src= "https://github.com/Firex86/firex86.github.io/blob/main/peura.jpg?raw=true" alt="Peura metsässä" width="350">
+    
+    <h3>Miksi peurat ovat kiinnostavia</h3>
+    
+    <ul>
+        <li>Suomen suurin nisäkäs</li>
+        <li>Aikuinen hirvi voi painaa yli 700kg</li>
+        <li>Vaikutus kulttuuriin kivikaudesta lähtien</li>
+    </ul>
+    
+    <h3>Hirvi runoudessa</h3>
+    
+<p>Lehmä eksyi metsään. <br>
+Hirvi irvisteli sille,<br>
+kun se tuli kutsumatta,<br>
+hirven reviirille.</p>
+    
+    <h2>Yleisinfo</h2>
+    
+    <p>Hirvi (Alces alces) on hirvieläinten heimoon kuuluva suurikokoinen nisäkäslaji, joka elää pohjoisella havumetsävyöhykkeellä Euroopassa ja läntisessä Aasiassa. Pohjois-Amerikassa ja Aasiassa Jenisein itäpuolella elävä <em>Alces americanus</em> on nykykäsityksen mukaan eri laji.</p>
+    <p>Hirvi on heimonsa suurin laji, ja sonni voi painaa yli 700 kilogrammaa. Hirvisonneilla on täysiluiset hanko- tai lapiosarvet. Hirvet syövät sekä vesikasveja että kuivan maan kasveja. Ne voivat saada aikaan pahoja metsätuhoja syömällä oksia ja kuorta ja taittamalla puiden latvuksia ja syömällä männyn taimia. Nykyisin hirvellä ei ole juuri muita vihollisia kuin ihminen: hirviä metsästetään ja niitä kuolee liikenteessä.</p>
+   
+    </body>
+</html>
