@@ -41,3 +41,10 @@ ul {
     padding: 20px;
      width: 500px;
   }
+figcaption {
+    background-color: rgb(208, 252, 192);
+    border: 5px rgb(0, 0, 0);
+    border-radius: 25px;
+    padding: 20px;
+     width: 500px;
+}
