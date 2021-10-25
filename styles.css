@@ -5,6 +5,12 @@ body {
 h1 {
   margin-left: 20px;
   background-color: (rgb(208, 252, 191);
+  border: 5px rgb(0, 0, 0)
+}
+h3 {
+  margin-left: 20px;
+  background-color: (rgb(208, 252, 191);
+  border: 5px rgb(0, 0, 0)
 }
 p {
     background-color: (rgb(208, 252, 191);
