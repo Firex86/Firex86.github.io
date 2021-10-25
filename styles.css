@@ -1,6 +1,8 @@
 body {
-    background-image: src= "https://github.com/Firex86/firex86.github.io/blob/main/images/forest.png?raw=true";
+  background-color: lightblue;
 }
-p {
-    background-color: (rgb(208, 252, 191);
-  }
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
