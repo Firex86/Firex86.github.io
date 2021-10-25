@@ -22,12 +22,14 @@ h3 {
   padding: 20px;
 }
 p {
+    margin-left: 20px;
     background-color: rgb(208, 252, 192);
     border: 5px rgb(0, 0, 0);
     border-radius: 25px;
     padding: 20px;
   }
 ol {
+    margin-left: 20px;
     background-color: rgb(208, 252, 192);
     border: 5px rgb(0, 0, 0);
     border-radius: 25px;
@@ -35,6 +37,7 @@ ol {
      width: 500px;
   }
 ul {
+    margin-left: 20px;
     background-color: rgb(208, 252, 192);
     border: 5px rgb(0, 0, 0);
     border-radius: 25px;
@@ -42,6 +45,7 @@ ul {
      width: 500px;
   }
 figure {
+    margin-left: 20px;
     background-color: rgb(208, 252, 192);
     border: 5px rgb(0, 0, 0);
     border-radius: 25px;
