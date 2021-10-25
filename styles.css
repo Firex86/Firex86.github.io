@@ -1,11 +1,11 @@
 body {
-  background-color: (rgb(73, 156, 73);
-}
-
-h1 {
-    background-color: (rgb(208, 252, 191);
-  margin-left: 20px;
-}
-p {
+    background-color: (rgb(73, 156, 73);
+  }
+  
+  h1 {
+    margin-left: 20px;
     background-color: (rgb(208, 252, 191);
   }
+  p {
+      background-color: (rgb(208, 252, 191);
+    }
