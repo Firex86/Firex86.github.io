@@ -1,15 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
 nav {
   float: left;
   width: 30%;
   height: 300px; /* only for demonstration, should be removed */
   background: #ccc;
   padding: 20px;
-  box-sizing: border-box;
 }
 nav ul {
   list-style-type: none;
   padding: 0;
-  box-sizing: border-box;
 }
 article {
   float: left;
@@ -17,20 +19,17 @@ article {
   width: 70%;
   background-color: #f1f1f1;
   height: 300px;
-  box-sizing: border-box;
 }
 section::after {
   content: "";
   display: table;
   clear: both;
-  box-sizing: border-box;
 }
 footer {
   background-color: #777;
   padding: 10px;
   text-align: center;
   color: white;
-  box-sizing: border-box;
 }
 header {
   background-color: #666;
@@ -38,5 +37,4 @@ header {
   text-align: center;
   font-size: 35px;
   color: white;
-  box-sizing: border-box;
 }
