@@ -17,7 +17,7 @@ section {
   width: 70%;
   background-color: rgb(208, 252, 192);
   height: 200px;
-   border: 20px rgb(73, 156, 73);
+  border: 5px rgb(73, 156, 73)solid;  
 }
 article {
   float: left;
@@ -25,7 +25,7 @@ article {
   width: 70%;
   background-color: rgb(208, 252, 192);
   height: 300px;
-   border: 20px rgb(73, 156, 73);
+  border: 5px rgb(73, 156, 73)solid;  
 }
 
 aside {
@@ -34,7 +34,7 @@ aside {
   width: 30%;
   background-color: rgb(208, 252, 192);
   height: 500px;
-   border: 20px rgb(73, 156, 73);
+  border: 5px rgb(73, 156, 73)solid;  
 }
 
 header {
