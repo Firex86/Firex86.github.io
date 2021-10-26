@@ -37,8 +37,7 @@ aside {
    border: 20px rgb(73, 156, 73);
 }
   footer {
-  position: relative;
-    width: 100%;
+  position: bottom;
   background-color: rgb(73, 156, 73);
   padding: 10px;
   text-align: center;
