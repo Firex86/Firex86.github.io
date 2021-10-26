@@ -37,7 +37,7 @@ aside {
    border: 20px rgb(73, 156, 73);
 }
   footer {
-  float: bottom;
+  position: relative;
   background-color: rgb(73, 156, 73);
   padding: 10px;
   text-align: center;
