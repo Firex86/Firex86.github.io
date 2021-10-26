@@ -3,7 +3,7 @@
 }
 
 nav {
-  float: top;
+  float: inline-start;
   width: 100%;
   height: 50px;
   background: rgb(172, 245, 146);
@@ -37,7 +37,7 @@ aside {
    border: 20px rgb(73, 156, 73);
 }
   footer {
-  float: bottom;
+  float: inline-end;
   background-color: rgb(73, 156, 73);
   padding: 10px;
   text-align: center;
