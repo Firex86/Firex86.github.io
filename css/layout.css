@@ -29,7 +29,7 @@ article {
 }
 
 aside {
-  float: top;
+  float: right;
     padding: 20px;
   width: 30%;
   background-color: rgb(208, 252, 192);
@@ -47,7 +47,8 @@ header {
   color: white;
 }
   footer {
-  position: bottom;
+  float: right;
+     width: 100%;
   background-color: rgb(73, 156, 73);
   padding: 10px;
   text-align: center;
