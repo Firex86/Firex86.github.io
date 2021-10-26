@@ -45,6 +45,7 @@ aside {
 }
 header {
   float: left;
+  width: 100%;
   background-color: rgb(73, 156, 73);
   padding: 30px;
   text-align: center;
