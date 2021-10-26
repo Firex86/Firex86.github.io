@@ -44,6 +44,7 @@ aside {
   color: white;
 }
 header {
+  float: left;
   background-color: rgb(73, 156, 73);
   padding: 30px;
   text-align: center;
