@@ -36,13 +36,7 @@ aside {
   height: 500px;
    border: 20px rgb(73, 156, 73);
 }
-  footer {
-  position: bottom;
-  background-color: rgb(73, 156, 73);
-  padding: 10px;
-  text-align: center;
-  color: white;
-}
+
 header {
   float: left;
   width: 100%;
