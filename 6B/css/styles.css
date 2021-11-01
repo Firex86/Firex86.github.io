@@ -67,12 +67,12 @@ section {
   padding: 20px;
   width: 85%;
   background-color: rgb(208, 252, 192);
-  height: 500px;
+  height: 40%;
   border: 5px rgb(73, 156, 73)solid;  
 }
 
 article {
   width: 85%;
   background-color: rgb(208, 252, 192);
-  height: 300px;
+  height: 60%;
 }
