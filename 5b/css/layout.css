@@ -55,9 +55,8 @@ header {
   color: white;
 }
 body {
-width: 90%;
-margin-left: auto;
-margin-right: auto;
+width: 100%;
+
 }  
 a:hover {
   color:#F61C1C;
