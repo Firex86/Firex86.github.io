@@ -1,3 +1,6 @@
+* {
+  box-sizing: border-box;
+}
 body {
   float: right;
   height: 100%;
