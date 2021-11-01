@@ -1,4 +1,6 @@
-body {
+html, body {
+  height: 100%;
+  width; 100%;
   background-color: rgb(73, 156, 73);
 }
 h1 {
@@ -57,6 +59,7 @@ nav {
   width: 15%;
   height; 100%;
   background: rgb(172, 245, 146);
-  padding: 20px;
+  padding: 5px;
   border: 5px rgb(73, 156, 73)solid;  
+  position: fixed;
 }
