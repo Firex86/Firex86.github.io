@@ -14,3 +14,7 @@ text-align: center;
 H1 {
     text-shadow: 2px 2px #ff0000;
 }
+a:hover {
+  color:#F61C1C;
+   transition-duration: 2s;
+}
