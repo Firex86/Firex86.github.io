@@ -6,6 +6,8 @@ box-shadow: 5px 10px rgb(224, 88, 88);
 #box2 {
 border: 1px solid;
 box-shadow: 5px 10px rgb(224, 88, 88);
+ background-image: https://github.com/Firex86/firex86.github.io/blob/9be6ff45b20f1042729a33345c0d8585797e11c0/11B/pink.jpg("pink.jpg");
+     background-size: cover;
     text-align: center;
   }
 H1 {
