@@ -18,3 +18,9 @@ a:hover {
   color:#F61C1C;
    transition-duration: 1s;
 }
+@media only screen and (max-width: 800px) {
+  body {
+    background-color: #ff0000;
+    color: white;
+  }
+}
