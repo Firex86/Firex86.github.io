@@ -6,7 +6,7 @@ box-shadow: 5px 10px rgb(224, 88, 88);
 #box2 {
 border: 1px solid;
 box-shadow: 5px 10px rgb(224, 88, 88);
- background-image: "pink.jpg"("pink.jpg");
+ background-image: "https://github.com/Firex86/firex86.github.io/blob/main/11B/pink.jpg?raw=true"("pink.jpg");
  background-repeat: no-repeat;
  background-size: cover;
 text-align: center;
