@@ -7,11 +7,12 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
-
+    <link rel="stylesheet" href="/styles.css">
   </head>
   <body>
 
-	<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <!--Navigointi-->
+	<nav class="navbar navbar-expand-lg navbar-dark bg-dark py-3 fixed-top">
             <div class="container">
 		<a class="navbar-brand" href="#">Games With Firex</a>
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -35,16 +36,80 @@
     </div>
 		</div>
 	  </nav>
-    <section class="bg-dark text-light p-5 text-center">
+
+    <!--Sisältö-->
+    <section class="bg-dark text-light p-5 text-sm-start text-center">
       <div class="container">
-        <div>
+        <div class="d-sm-flex align-items-center p-5">
           <div>
-            
+            <h1>Welcome To Games With Firex</h1>
+            <p class="lead">Here you can find information of my favourite games. Also you can get my honest reviews of those games.</p>
+            <p class="lead">If you wish to contact me you can fill a survey down below.</p>
           </div>
+          <img class="img-fluid w-50" src="https://raw.githubusercontent.com/Firex86/firex86.github.io/cdb2d6aa9f7262c4bc1dda1d8c7abdad0c66ec64/Loppu/Gamepad-Black.svg" alt="Picture of a game controller">
         </div>
       </div>
     </section>
-   
+
+    <section class="p-5">
+      <div class="container">
+      <div class="row align-items-center p-5 justify-content-between">
+        <div class="col-md-6">
+          <img class="img-fluid w-50" src="https://raw.githubusercontent.com/Firex86/firex86.github.io/151df1d4b38c4669cd64c20561d8c4ac1ae57e56/Loppu/1540477477.svg" alt="Man on a game machine">
+        </div>
+        <div class="col-md-6">
+          <h2>My Story</h2>
+          <p class="lead">I started playing video games way back when I was in kindergarden at Veikkola. One of my first experiences was with a Playstation 2 and Crash Bandicoot. Later I also got my hands on at a Il-2 Sturmovik computer game.</p>
+        </div>
+      </div>
+      </div>
+      </section>
+
+   <section class="bg-dark text-light">
+     <div class="container">
+       <div class="row align-items-center p-5 justify-content-between">
+         <div class="col-md-6 p-5">
+           <h2>Star Wars</h2>
+           <p class="lead">After I watched Star Wars at around 9 years old the star wars hype got me. I purchased immediatly the original Lego Star Wars for my Playstation 2. After that many nights were spent playing it whilst I probably should have been sleeping.</p>
+           <p class="lead">Once I was older, I purchased the original Star Wars Battlefront 2.</p>
+         </div>
+         <div class="col-md-6">
+           <img class="img-fluid" src="https://raw.githubusercontent.com/Firex86/firex86.github.io/b864878859b6bee6a1a154fb0b6c86d2f69424e5/Loppu/CLIP-IS-A-BRICK_SW-MINI_X-WING.svg" alt="Picture of a Lego X-Wing">
+         </div>
+       </div>
+     </div>
+   </section>
+
+   <!--Footeri-->
+   <section class="bg-danger text-dark p-5">
+     <div class="container">
+       <div class="d-md-flex justify-content-between align-items-center">
+         <h3 class="mb-3 mb-md-0 p-5">Please Fill Contact Information Below</h3>
+       </div>
+       <form>
+        <div class="row">
+          <div class="col">
+            <input type="text" class="form-control" placeholder="First name">
+          </div>
+          <div class="col">
+            <input type="text" class="form-control" placeholder="Last name">
+          </div>
+        </div>
+        <div class="row p-5">
+          <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+          <small id="emailHelp" class="form-text text-muted"><p class="lead"></p>We'll never share your email with anyone else.</p></small>
+        </div>
+        <div class="form-check">
+          <input type="checkbox" class="form-check-input" id="exampleCheck1">
+          <label class="form-check-label" for="exampleCheck1">Check me out</label>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+        </div>
+      </form>
+      
+    </div>
+   </section>
 
    
     <!-- Optional JavaScript -->
